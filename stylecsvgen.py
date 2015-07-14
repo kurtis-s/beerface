@@ -14,7 +14,6 @@ def beer_subcats(tree):
 
 def extract_stats(beer_subcat):
     '''Return a dictionary with beer name and statistics'''
-    print(beer_subcat.xpath("name")[0].text)
     stats = dict(name=beer_subcat.xpath("name")[0].text)
     for stat_name in stat_names:
         stats[stat_name + "_low"] = float(beer_subcat.xpath("stats/" + stat_name + "/low")[0].text)
