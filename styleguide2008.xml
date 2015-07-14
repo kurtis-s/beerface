@@ -884,7 +884,7 @@ Release 2008
       <high>3.8</high>
      </abv>
     </stats>
-    <examples>Fuller's Chiswick Bitter, Adnams Bitter, Young's Bitter, Greene King IPA, Oakham Jeffrey Hudson Bitter (JHB), Brains Bitter, Tetley’s Original Bitter, Brakspear Bitter, Boddington's Pub Draught </examples>
+    <examples>Fuller's Chiswick Bitter, Adnams Bitter, Young's Bitter, Greene King IPA, Oakham Jeffrey Hudson Bitter (JHB), Brains Bitter, Tetley's Original Bitter, Brakspear Bitter, Boddington's Pub Draught </examples>
    </subcategory>
    <subcategory id="8B">
     <name>Special/Best/Premium Bitter</name>
@@ -2186,6 +2186,10 @@ Release 2008
       <low>1.001</low>
       <high>1.010</high>
      </fg>
+     <ibu flexible="false">
+      <low>0</low>
+      <high>10</high>
+     </ibu>
      <srm flexible="false">
       <low>3.0</low>
       <high>7.0</high>
@@ -2216,6 +2220,10 @@ Release 2008
       <low>1.000</low>
       <high>1.006</high>
      </fg>
+     <ibu flexible="false">
+      <low>0</low>
+      <high>10</high>
+     </ibu>
      <srm flexible="false">
       <low>3.0</low>
       <high>7.0</high>
@@ -2246,6 +2254,10 @@ Release 2008
       <low>1.000</low>
       <high>1.010</high>
      </fg>
+     <ibu flexible="false">
+      <low>0</low>
+      <high>10</high>
+     </ibu>
      <srm flexible="false">
       <low>3.0</low>
       <high>7.0</high>
