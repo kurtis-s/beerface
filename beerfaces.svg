@@ -4044,8 +4044,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.85244133"
-     inkscape:cx="328.95129"
-     inkscape:cy="1405.8055"
+     inkscape:cx="282.02724"
+     inkscape:cy="1171.1852"
      inkscape:window-x="4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -13555,20 +13555,22 @@
          id="tspan14868">Lager</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,168.575,79.925)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text184"><tspan
-         x="0 6.6700001 10 15.56 21.67 27.780001 33.34 37.029999 43.139999 45.919998 53.139999 62.029999 67.589996 71.480003 74.260002 79.82 85.379997 91.489998 94.269997 100.38 105.84 112.05 117.61"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text184"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan186">Standard American Lager</tspan></text>
+         id="tspan15183">Standard American</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15185">Lager</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,284.2875,79.925)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text342"><tspan
-         x="0 6.6700001 10.56 16.120001 25.01 27.790001 33.900002 42.790001 45.57 52.790001 61.68 67.239998 71.129997 73.910004 79.470001 85.029999 91.139999 93.919998 100.03 105.49 111.7 117.26"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text342"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan344">Premium American Lager</tspan></text>
+         id="tspan15187">Premium American</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15189">Lager</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,433.525,79.925)"
        style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -13587,28 +13589,31 @@
          id="tspan660">Dortmunder Export</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,65.8,166.425)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text816"><tspan
-         x="0 7.7800002 13.34 17.23 26.120001 31.68 37.790001 40.57 47.240002 50.02 52.799999 58.360001 64.470001 70.029999 73.919998 76.699997 80.029999 86.699997 89.480003 92.260002 97.82"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text816"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan818">German Pilsner (Pils)</tspan></text>
+         id="tspan15191">German Pilsner</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15193">(Pils)</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,188.2375,166.425)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text974"><tspan
-         x="0 7.2199998 13.33 19.440001 25 33.889999 36.669998 42.23 48.34 51.119999 57.790001 60.57 63.349998 68.910004 74.470001 80.580002 86.139999"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text974"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan976">Bohemian Pilsener</tspan></text>
+         id="tspan15199">Bohemian</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15201">Pilsener</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,285.3125,166.425)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1132"><tspan
-         x="0 7.2199998 10 15.56 21.120001 26.68 29.459999 35.02 37.799999 45.02 53.91 59.470001 63.360001 66.139999 71.699997 77.260002 83.370003 86.150002 92.82 95.599998 98.379997 103.94 110.05 115.61"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text1132"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan1134">Classic American Pilsner</tspan></text>
+         id="tspan15195">Classic American</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15197">Pilsner</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,436.2375,166.425)"
        style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -13635,20 +13640,22 @@
          id="tspan1608">Dark American Lager</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,200.125,252.9125)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1764"><tspan
-         x="0 8.3299999 14.44 20.549999 23.33 28.790001 34.900002 37.68 44.900002 51.009998 57.119999 62.68 68.239998"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text1764"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan1766">Munich Dunkel</tspan></text>
+         id="tspan15203">Munich</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15205">Dunkel</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,285.1625,252.9125)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text1922"><tspan
-         x="0 6.6700001 12.13 18.24 26.02 31.58 35.470001 40.470001 46.580002 49.360001 54.919998 58.810001 61.59 64.919998 72.139999 74.919998 80.480003 85.839996 91.400002 94.18 101.4 106.96 112.52 116.41"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text1922"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan1924">Schwarzbier (Black Beer)</tspan></text>
+         id="tspan15207">Schwarzbier</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15209">(Black Beer)</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,413.5625,252.9125)"
        style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -13707,60 +13714,67 @@
          id="tspan3030">Kölsch</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,43.3,425.9125)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text3186"><tspan
-         x="0 7.2199998 16.110001 21.67 25.559999 28.34 33.900002 39.459999 45.57 48.349998 57.790001 63.900002 69.459999 75.019997 78.349998 81.129997 87.239998 91.129997 93.910004 101.13 106.59 112.15 114.93 122.15 127.71 133.27"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text3186"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3188">American Wheat or Rye Beer</tspan></text>
+         id="tspan15211">American Wheat</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15213">or Rye Beer</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,171.1125,425.9125)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text3344"><tspan
-         x="0 7.2199998 13.33 17.42 20.75 26.860001 32.419998 36.310001 42.419998 45.200001 52.98 58.540001 62.43 71.32 76.879997 82.989998 85.769997 92.989998 95.769997 99.099998 105.21 107.99 113.55"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text3344"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3346">Northern German Altbier</tspan></text>
+         id="tspan15223">Northern German</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15225">Altbier</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,286.85,425.9125)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text3502"><tspan
-         x="0 7.2199998 12.78 15.56 18.34 21.469999 27.58 31.469999 37.580002 40.360001 45.919998 48.700001 55.919998 62.029999 70.919998 79.809998 85.919998 92.029999 94.809998 102.03 107.59 113.15"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text3502"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3504">California Common Beer</tspan></text>
+         id="tspan15219">California Common</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15221">Beer</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,421.3125,425.9125)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text3660"><tspan
-         x="0 7.2199998 13.33 18.889999 24.450001 30.01 32.790001 38.900002 45.009998 48.900002 52.23 55.009998 62.23 65.010002 68.339996 74.449997 77.230003 82.790001"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text3660"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3662">Düsseldorf Altbier</tspan></text>
+         id="tspan15231">Düsseldorf</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15233">Altbier</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,518.2375,425.9125)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text3818"><tspan
-         x="0 6.6700001 10 15.56 21.67 27.780001 33.34 37.029999 43.139999 45.919998 53.700001 57.389999 63.5 66.279999 72.389999 77.949997 81.940002 87.5 90.279999 97.5 100.28 103.61 106.94 112.5"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text3818"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3820">Standard/Ordinary Bitter</tspan></text>
+         id="tspan15227">Standard/Ordinary</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15229">Bitter</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,45.3125,512.4)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text3976"><tspan
-         x="0 6.6700001 12.78 18.34 23.9 26.68 32.240002 35.02 37.799999 45.02 50.580002 56.139999 59.470001 62.25 68.919998 72.809998 78.370003 87.260002 90.040001 96.150002 105.04 107.82 115.04 117.82 121.15 124.48 130.03999"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text3976"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3978">Special/Best/Premium Bitter</tspan></text>
+         id="tspan15239">Special/Best/Premium</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15241">Bitter</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,111.1,512.4)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text4134"><tspan
-         x="0 6.6700001 12.23 15.56 19.450001 25.01 27.790001 34.459999 40.57 46.130001 51.689999 54.470001 60.029999 62.810001 65.589996 72.260002 75.589996 79.279999 85.389999 91.5 97.610001 100.39 107.61 110.39 113.72 117.05 122.61 126.5 129.28 132.61 139.28 145.39 151.5 154.28 157.06 162.62 168.73 171.50999 177.88 183.44 186.22 191.78 194.56 201.78 204.56 210.12"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text4134"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4136">Extra Special/Strong Bitter (English Pale Ale)</tspan></text>
+         id="tspan15235">Extra Special/Strong Bitter</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15237">(English Pale Ale)</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,304.2625,512.4)"
        style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -13835,20 +13849,22 @@
          id="tspan5558">Mild</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,171.8,685.4)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text5714"><tspan
-         x="0 6.6700001 12.78 18.889999 22.219999 28.33 33.889999 37.779999 43.889999 46.669998 53.34 59.450001 65.559998 68.339996 71.120003 76.68 82.790001 85.57 92.790001 96.480003 102.44 110.22"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text5714"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5716">Southern English Brown</tspan></text>
+         id="tspan15247">Southern English</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15249">Brown</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,276.75,685.4)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text5872"><tspan
-         x="0 7.2199998 13.33 17.42 20.75 26.860001 32.419998 36.310001 42.419998 45.200001 51.869999 57.98 64.089996 66.870003 69.650002 75.209999 81.32 84.099998 91.32 95.010002 100.97 108.75 114.86 117.64 124.86 127.64"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text5872"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5874">Northern English Brown Ale</tspan></text>
+         id="tspan15243">Northern English</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15245">Brown Ale</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,436.25,685.4)"
        style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -13979,12 +13995,13 @@
          id="tspan8244">Weizenbock</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,382.4125,944.8875)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text8400"><tspan
-         x="0 7.2199998 13.33 19.440001 25.65 31.209999 37.32 43.43 46.209999 51.77 55.66 58.439999 61.77 69.550003 75.110001 79 87.889999 93.449997 99.559998 102.34 109.56 115.02 120.58 123.36 130.58 136.14 141.7 145.59"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text8400"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan8402">Roggenbier (German Rye Beer)</tspan></text>
+         id="tspan15251">Roggenbier</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15253">(German Rye Beer)</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,569.8,944.8875)"
        style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -14035,20 +14052,22 @@
          id="tspan9350">Flanders Red Ale</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,38.35,1117.875)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text9506"><tspan
-         x="0 6.1100001 8.8900003 14.45 20.559999 26.67 32.23 35.970001 41.529999 44.310001 51.529999 55.220001 61.18 68.959999 75.07 77.849998 85.07 87.849998 93.410004 96.190002 103.97 110.08 116.19 118.97 126.19 130.08 136.19 138.97"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text9506"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan9508">Flanders Brown Ale/Oud Bruin</tspan></text>
+         id="tspan15255">Flanders Brown Ale</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15257">/Oud Bruin</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,159.15,1117.875)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text9664"><tspan
-         x="0 6.6700001 10 13.89 19.450001 22.23 28.34 34.450001 37.779999 40.560001 43.889999 51.110001 57.220001 63.23 66.010002 71.57 77.68 83.790001 89.349998 95.459999 98.790001 101.57 107.68 113.24 122.13 128.24001 131.02"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text9664"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan9666">Straight (Unblended) Lambic</tspan></text>
+         id="tspan15259">Straight (Unblended)</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15261">Lambic</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,337.3625,1117.875)"
        style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -14091,12 +14110,13 @@
          id="tspan10456">Belgian Tripel</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,280.9375,1204.375)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text10612"><tspan
-         x="0 7.2199998 12.78 15.56 21.67 24.450001 30.01 36.119999 38.900002 46.68 52.790001 55.57 61.68 67.239998 73.349998 76.129997 82.800003 86.129997 89.82 95.93 102.04 108.15 110.93 118.15 120.93"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text10612"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan10614">Belgian Golden Strong Ale</tspan></text>
+         id="tspan15263">Belgian Golden</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15265">Strong Ale</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,404.075,1204.375)"
        style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -14115,20 +14135,22 @@
          id="tspan10930">Old Ale</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,71.8,1290.875)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text11086"><tspan
-         x="0 6.6700001 12.78 18.889999 21.67 24.450001 30.01 36.119999 38.900002 46.119999 51.68 55.57 58.349998 63.759998 69.32 77.099998 79.879997 85.989998"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text11086"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan11088">English Barleywine</tspan></text>
+         id="tspan15271">English</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15273">Barleywine</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,181.3875,1290.875)"
-       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text11244"><tspan
-         x="0 7.2199998 16.110001 21.67 25.559999 28.34 33.900002 39.459999 45.57 48.349998 55.57 61.130001 65.019997 67.800003 73.209999 78.769997 86.550003 89.330002 95.440002"
-         y="0"
+       style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%;"
+       id="text11244"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan11246">American Barleywine</tspan></text>
+         id="tspan15267">American</tspan><tspan
+         sodipodi:role="line"
+         id="tspan15269">Barleywine</tspan></text>
 <text
        transform="matrix(1.25,0,0,1.25,305.875,1290.875)"
        style="font-variant:normal;font-weight:bold;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
