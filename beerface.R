@@ -11,8 +11,8 @@ beerstats <- beerstats %>% mutate(
     srm=(srm_low + srm_high)/2,
     abv=(abv_low + abv_high)/2)
 
-png(file="beerfaces.png", width=960, height=1920)
-faces(beerstats[c("og", "fg", "ibu", "srm", "abv")],
+pdf(file="beerfaces.pdf", width=8, height=16, pointsize=8)
+faces(beerstats[c("abv", "fg", "ibu", "srm", "og")],
       labels=beerstats$name,
       nrow.plot=15,
       ncol.plot=5)
