@@ -9,7 +9,7 @@ category.
 To create the visualization
 
 1.  Run stylecsvgen.py to parse beer category characteristics information from styleguide2008.xml (requires [lxml](http://lxml.de/))
-2.  Run beerface.R to generate a PDF with Chernoff faces
+2.  Run beerface.R to generate a PDF with Chernoff faces (requires [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html) and [aplpack](https://cran.r-project.org/web/packages/aplpack/index.html))
 
 
 ![Beer category data visualization](./beerfaces_afedit.gif?raw=true)
